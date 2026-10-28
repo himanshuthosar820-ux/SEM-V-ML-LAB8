@@ -42,7 +42,7 @@ Libraries Used
 - Seaborn
 - Scikit-learn
 Files in This Repository
-- Gaurav A_A2_27_ML_Lab_8.ipynb -- Jupyter Notebook containing the
+- Gaurav _ML_Lab_8.ipynb -- Jupyter Notebook containing the
   implementation.
 - ai4i2020.csv -- Dataset used by the notebook.
 - README.md -- Project overview and instructions.
@@ -53,7 +53,7 @@ How to Run
 3. Install the required libraries:
    pip install pandas numpy matplotlib seaborn scikit-learn
 4. Keep ai4i2020.csv in the same folder as the notebook.
-5. Open Gaurav A_A2_27_ML_Lab_8.ipynb and run the cells from top to
+5. Open Gaurav ML_Lab_8.ipynb and run the cells from top to
    bottom.
 If using Google Colab, upload ai4i2020.csv to the session or mount
 the folder containing it before running the notebook.
